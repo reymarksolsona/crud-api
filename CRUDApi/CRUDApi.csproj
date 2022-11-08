@@ -214,7 +214,9 @@
     <Folder Include="Views\Profile\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DB\CRUDAPI.bak" />
     <None Include="packages.config" />
+    <Content Include="POSTMAN_API_CALLS\CRUDAPI.postman_collection.json" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
